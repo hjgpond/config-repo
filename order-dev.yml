@@ -14,4 +14,4 @@ spring:
     username: guest
     password: guest
 env:
-  dev
+  test3
